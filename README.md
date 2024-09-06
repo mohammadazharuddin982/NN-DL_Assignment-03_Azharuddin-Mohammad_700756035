@@ -6,4 +6,5 @@ Name: Azharuddin Mohammad
 
 Assignment 03__ NN & DL
 
-Video Link: 
+Video Link: https://vimeo.com/1006785849/b4373359aa?share=copy
+
